@@ -34,8 +34,8 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@terry90918-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/terry90918)
-[![LinkedIn](https://img.shields.io/badge/-Terry_Chen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terry90918)
+[![X](https://img.shields.io/badge/-@zxtw17985321-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zxtw17985321)
+[![LinkedIn](https://img.shields.io/badge/-Terry_Chen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tien-yi-chen-98812812a)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/terry90918)
 
 ---
