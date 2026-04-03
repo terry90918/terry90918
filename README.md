@@ -18,12 +18,10 @@
 - 🛠 **[jurislm-tools](https://github.com/jurislm/jurislm-tools)** — Claude Code plugin marketplace: MCP servers, skills, and cross-project development patterns
 - 🏗 **[hetzner-mcp](https://github.com/jurislm/hetzner-mcp)** — MCP server for managing Hetzner Cloud infrastructure from Claude Code
 - 🚀 **[coolify-mcp](https://github.com/jurislm/coolify-mcp)** — 35 tools for managing self-hosted PaaS through AI assistants
-- 📊 **[stock](https://stock.jurislm.com)** — AI-powered stock analysis platform with real-time market data
-- 👨‍⚖️ **[lawyer](https://lawyer.jurislm.com)** — Law firm website with Payload CMS and AI-assisted content
 
 ## What I'm Doing
 
-- **Shipping AI-first products** — 5 production apps running on Hetzner / Coolify, all deployed and managed via MCP tooling
+- **Shipping AI-first products** — Production apps running on Hetzner / Coolify, all deployed and managed via MCP tooling
 - **Building the MCP ecosystem** — Custom MCP servers for Coolify, Hetzner, and Taiwan Judicial Yuan open data
 - **Scaling RAG pipelines** — Building embedding pipelines with pgvector for large-scale legal document search
 
