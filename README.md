@@ -14,7 +14,7 @@
 
 ## Current Projects
 
-- 🔧 **[judicial-mcp](https://github.com/terry90918/judicial-mcp)** — MCP server for accessing Taiwan Judicial Yuan open data and judgments
+- 🔧 **[judicial-mcp](https://github.com/jurislm/judicial-mcp)** — MCP server for accessing Taiwan Judicial Yuan open data and judgments
 - 🏗 **[hetzner-mcp](https://github.com/jurislm/hetzner-mcp)** — MCP server for managing Hetzner Cloud infrastructure from Claude Code
 - 🚀 **[coolify-mcp](https://github.com/jurislm/coolify-mcp)** — 35 tools for managing self-hosted PaaS through AI assistants
 
