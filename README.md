@@ -14,10 +14,12 @@
 
 ## Current Projects
 
-- 🔧 **[judicial-mcp](https://github.com/jurislm/judicial-mcp)** — MCP server for accessing Taiwan Judicial Yuan open data and judgments
-- 🏗 **[hetzner-mcp](https://github.com/jurislm/hetzner-mcp)** — MCP server for managing Hetzner Cloud infrastructure from Claude Code
-- 🚀 **[coolify-mcp](https://github.com/jurislm/coolify-mcp)** — 35 tools for managing self-hosted PaaS through AI assistants
-- 📊 **[langfuse-mcp](https://github.com/jurislm/langfuse-mcp)** — 13 tools for Langfuse prompt management and observability
+| Project | Description | Install |
+|---------|-------------|---------|
+| 🔧 **[judicial-mcp](https://github.com/jurislm/judicial-mcp)** | MCP server for accessing Taiwan Judicial Yuan open data and judgments | `bunx @jurislm/judicial-mcp@latest` |
+| 🏗 **[hetzner-mcp](https://github.com/jurislm/hetzner-mcp)** | MCP server for managing Hetzner Cloud infrastructure from Claude Code | `bunx @jurislm/hetzner-mcp@latest` |
+| 🚀 **[coolify-mcp](https://github.com/jurislm/coolify-mcp)** | 35 tools for managing self-hosted PaaS through AI assistants | `bunx @jurislm/coolify-mcp@latest` |
+| 📊 **[langfuse-mcp](https://github.com/jurislm/langfuse-mcp)** | 13 tools for Langfuse prompt management and observability | `bunx @jurislm/langfuse-mcp@latest` |
 
 ## What I'm Doing
 
